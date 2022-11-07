@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedro_lvr12@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-fff?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/imawoken/)
 
-##### Programming Languages I most often use/study
+##### Programming Languages/technologies I most often use/study
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
