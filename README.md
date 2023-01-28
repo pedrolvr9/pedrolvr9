@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedro_lvr12@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-fff?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/imawoken/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-fff?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/pedrolvr9/)
 
 ##### Programming Languages/technologies I most often use/study
 
