@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔎Currently searching for a job where can i start building my professional career
 -->
 
 ## Hi, I'm Pedro Henrique!
@@ -18,7 +19,6 @@ Here are some ideas to get you started:
 #### A little introduction about me
 - 💡Started learning programming serious in 2020, since then, working on to get the better of me everyday
 - ⚡Even though I want to become a fullstack professional, I like to see how things work on the backend, it seems like magic.
-- 🔎Currently searching for a job where can i start building my professional career
 - 📨You can reach me with the links below
 
 
